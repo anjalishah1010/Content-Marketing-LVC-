@@ -7,3 +7,14 @@
 ![image](https://user-images.githubusercontent.com/99791667/168275595-27f8c9a1-80c0-4761-b930-af7406710f69.png)
 ![image](https://user-images.githubusercontent.com/99791667/168275623-21647fa7-7c76-4a84-8af7-8d823c6e3829.png)
 ![image](https://user-images.githubusercontent.com/99791667/168275660-744d3cf5-8876-4cc9-b41f-76f8d9ed8cb3.png)
+A.	Create a LVC PPT from a Learning Design perspective. Use the PPT shared as the raw file. The audio script is present in the notes section of the file shared, use that as the raw data.
+
+Task Description: 
+a.	Create a LVC PPT.
+i.	Add proper trainer notes in the notes section.
+ii.	Use images and infographics wherever required to present the information in a visual manner. 
+iii.	Add relevant text to the slide. 
+iv.	Write relevant slide titles
+v.	Create objectives and key takeaways
+
+
